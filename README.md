@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thehapadev
 - 👀 I’m interested in Web3/Front-End Dev
 - 🌱 I’m currently learning Solidity + React
-- 💞️ I’m looking to collaborate on projects in HI
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me info@riessdesigns.com
 
 <!---
