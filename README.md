@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thehapadev
+- 👋 Hi, I’m [@thehapadev](https://www.x.com/thehapadev)
 - 👀 I’m interested in Web3 + Front-End Dev
 - 🌱 I’m currently learning Solidity + React
 - 💞️ I’m looking to collaborate on projects 
